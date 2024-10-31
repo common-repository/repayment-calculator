@@ -1,0 +1,485 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Repayment Calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-04 10:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: settings.php:246 settings.php:249
+msgid "Add a processing fee"
+msgstr ""
+
+#: settings.php:153
+msgid "Add a title to the top of the form"
+msgstr ""
+
+#: settings.php:372
+msgid "Add an Apply now button to the form"
+msgstr ""
+
+#: settings.php:251
+msgid "Add fees"
+msgstr ""
+
+#: settings.php:144
+msgid "Add the form to a post or page using the shortcode [lrc]"
+msgstr ""
+
+#: settings.php:349
+msgid "Adds a space between currency symbol and amount"
+msgstr ""
+
+#. Author of the plugin
+msgid "aerin"
+msgstr ""
+
+#: settings.php:347
+msgid "After amount"
+msgstr ""
+
+#: settings.php:251
+msgid "after interest"
+msgstr ""
+
+#: settings.php:373
+msgid "All the button does is send the visitor to the URL given below"
+msgstr ""
+
+#: settings.php:360
+msgid "Always on"
+msgstr ""
+
+#: settings.php:247
+msgid "Amount Processing fee"
+msgstr ""
+
+#: settings.php:163
+msgid "Amount Slider Label"
+msgstr ""
+
+#: settings.php:161
+msgid "Amount Slider Settings"
+msgstr ""
+
+#: settings.php:376
+msgid "Append query to URL"
+msgstr ""
+
+#: settings.php:371
+msgid "Apply Now Button"
+msgstr ""
+
+#: settings.php:374
+msgid "Apply now label"
+msgstr ""
+
+#: settings.php:403
+msgid "Background"
+msgstr ""
+
+#: settings.php:392 settings.php:398
+msgid "Background Colour"
+msgstr ""
+
+#: settings.php:347
+msgid "Before amount"
+msgstr ""
+
+#: settings.php:251
+msgid "before interest"
+msgstr ""
+
+#: settings.php:246
+msgid "calculated from the amount slider value"
+msgstr ""
+
+#: settings.php:249
+msgid "calculated from the term slider value"
+msgstr ""
+
+#: settings.php:260
+msgid "Check those outputs you want to use. Drag and drop to change the order"
+msgstr ""
+
+#: settings.php:146
+msgid "click here"
+msgstr ""
+
+#: settings.php:213
+msgid "Colour"
+msgstr ""
+
+#: settings.php:300
+msgid "Credit Rating"
+msgstr ""
+
+#: settings.php:347
+msgid "Currency Position"
+msgstr ""
+
+#: settings.php:349
+msgid "Currency Space"
+msgstr ""
+
+#: settings.php:165
+msgid "Currency Symbol"
+msgstr ""
+
+#: settings.php:188 settings.php:342
+msgid "Days"
+msgstr ""
+
+#: settings.php:361
+msgid "Decimal Comma"
+msgstr ""
+
+#: settings.php:358
+msgid "Decimals"
+msgstr ""
+
+#: settings.php:205
+msgid "Disables repayment interest rate"
+msgstr ""
+
+#: settings.php:249
+msgid "eg: an amount multiplied by the number of"
+msgstr ""
+
+#: settings.php:401
+msgid "Embolden output values"
+msgstr ""
+
+#: settings.php:247
+msgid "Fixed"
+msgstr ""
+
+#: settings.php:359
+msgid "Floating"
+msgstr ""
+
+#: settings.php:400
+msgid "Font Colour"
+msgstr ""
+
+#: settings.php:375
+msgid "Form action URL"
+msgstr ""
+
+#: settings.php:152
+msgid "Form Header"
+msgstr ""
+
+#: settings.php:405
+msgid "Hover"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://loanpaymentplugin.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://quick-plugins.com/"
+msgstr ""
+
+#: settings.php:146
+msgid "If you need help"
+msgstr ""
+
+#: settings.php:296
+#, php-format
+msgid "Includes the % symbol"
+msgstr ""
+
+#: settings.php:286 settings.php:321
+msgid "Includes the currency symbol"
+msgstr ""
+
+#: settings.php:306 settings.php:311 settings.php:316
+msgid "includes the currency symbol"
+msgstr ""
+
+#: settings.php:291
+msgid "Includes the period"
+msgstr ""
+
+#: settings.php:214
+msgid "Initial Rating"
+msgstr ""
+
+#: settings.php:185
+msgid "Initial term"
+msgstr ""
+
+#: settings.php:169
+msgid "Initial value"
+msgstr ""
+
+#: settings.php:201 settings.php:305
+msgid "Interest"
+msgstr ""
+
+#. Description of the plugin
+msgid "Interest calculator with slider and multiple display options."
+msgstr ""
+
+#: settings.php:295
+msgid "Interest rate"
+msgstr ""
+
+#: settings.php:207
+msgid "Interest Selector Label"
+msgstr ""
+
+#: settings.php:211 settings.php:407
+msgid "Label"
+msgstr ""
+
+#: settings.php:394
+msgid "Labels and slider handle colour"
+msgstr ""
+
+#: settings.php:188
+msgid "Loan Period"
+msgstr ""
+
+#: settings.php:252
+msgid "Maximum fee"
+msgstr ""
+
+#: settings.php:184
+msgid "Maximum term"
+msgstr ""
+
+#: settings.php:168
+msgid "Maximum value"
+msgstr ""
+
+#: settings.php:252
+msgid "Minimum fee"
+msgstr ""
+
+#: settings.php:183
+msgid "Minimum term"
+msgstr ""
+
+#: settings.php:167
+msgid "Minimum value"
+msgstr ""
+
+#: settings.php:190 settings.php:344
+msgid "Months"
+msgstr ""
+
+#: settings.php:365
+msgid "Nearest hundred"
+msgstr ""
+
+#: settings.php:364
+msgid "Nearest ten"
+msgstr ""
+
+#: settings.php:366
+msgid "Nearest thousand"
+msgstr ""
+
+#: settings.php:358 settings.php:363
+msgid "None"
+msgstr ""
+
+#: settings.php:250
+msgid "number of"
+msgstr ""
+
+#: settings.php:275
+msgid "Output"
+msgstr ""
+
+#: settings.php:340
+msgid "Output Options"
+msgstr ""
+
+#: settings.php:259
+msgid "Output Table"
+msgstr ""
+
+#: settings.php:247
+msgid "Percent"
+msgstr ""
+
+#: settings.php:193
+msgid "Plural"
+msgstr ""
+
+#: settings.php:285
+msgid "Principal"
+msgstr ""
+
+#: settings.php:310
+msgid "Processing"
+msgstr ""
+
+#: settings.php:236 settings.php:245
+msgid "Processing Fee"
+msgstr ""
+
+#: settings.php:237
+msgid "Processing fee"
+msgstr ""
+
+#: settings.php:377
+msgid "Query string"
+msgstr ""
+
+#: settings.php:212
+msgid "Rate"
+msgstr ""
+
+#: repayment-calculator.php:75
+msgid "Redirecting...."
+msgstr ""
+
+#: settings.php:315
+msgid "Repayment"
+msgstr ""
+
+#. Name of the plugin
+msgid "Repayment Calculator"
+msgstr ""
+
+#: settings.php:203
+msgid "Repayment Interest Rate"
+msgstr ""
+
+#: settings.php:342
+msgid "Repayment Period"
+msgstr ""
+
+#: settings.php:363
+msgid "Rounding"
+msgstr ""
+
+#: repayment-calculator.php:274
+msgid "Settings"
+msgstr ""
+
+#: settings.php:172 settings.php:194
+msgid "Show markers"
+msgstr ""
+
+#: settings.php:361
+msgid "Shows a comma on decimals"
+msgstr ""
+
+#: settings.php:192
+msgid "Singular"
+msgstr ""
+
+#: settings.php:396
+msgid "Slider Track"
+msgstr ""
+
+#: settings.php:172 settings.php:194
+msgid "Small steps will mean lots of marker lines. Use with caution"
+msgstr ""
+
+#: settings.php:170 settings.php:186
+msgid "Step"
+msgstr ""
+
+#: settings.php:290
+msgid "Term"
+msgstr ""
+
+#: settings.php:192
+msgid "Term labels"
+msgstr ""
+
+#: settings.php:250
+msgid "Term Processing fee"
+msgstr ""
+
+#: settings.php:181
+msgid "Term Slider Label"
+msgstr ""
+
+#: settings.php:179
+msgid "Term Slider Settings"
+msgstr ""
+
+#: settings.php:237
+msgid "The fee is added to principal before interest is calculated"
+msgstr ""
+
+#: settings.php:306
+msgid "The interest to pay"
+msgstr ""
+
+#: settings.php:356
+msgid "The period separator changes the decimal to a comma"
+msgstr ""
+
+#: settings.php:114
+msgid "The settings have been reset"
+msgstr ""
+
+#: settings.php:109
+msgid "The settings have been updated"
+msgstr ""
+
+#: settings.php:311
+msgid "The total processing fee"
+msgstr ""
+
+#: settings.php:316
+msgid "The value of each repayment"
+msgstr ""
+
+#: settings.php:373
+msgid "This does not process the form data"
+msgstr ""
+
+#: settings.php:351
+msgid "Thousands separator"
+msgstr ""
+
+#: settings.php:320
+msgid "Total to Pay"
+msgstr ""
+
+#: settings.php:274
+msgid "Use"
+msgstr ""
+
+#: settings.php:205
+msgid "Use credit ratings"
+msgstr ""
+
+#: settings.php:366
+msgid "Use With Caution"
+msgstr ""
+
+#: settings.php:142
+msgid "Using the Plugin"
+msgstr ""
+
+#: settings.php:276
+msgid "Value"
+msgstr ""
+
+#: settings.php:189 settings.php:343
+msgid "Weeks"
+msgstr ""
+
+#: settings.php:191 settings.php:345
+msgid "Years"
+msgstr ""

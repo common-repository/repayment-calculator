@@ -1,0 +1,11 @@
+.lrc-options {margin-top: 12px;}
+.lrc-options input[type=text], .lrc-options textarea, .lrc-options select, .lrc-options #submit {width: 100%;box-sizing: border-box;}
+.lrc-options p {margin: 4px 0;padding: 0;}
+.lrc-options h2 {color: #005F6B;margin-top:0;}
+.lrc-options th {text-align:left;}
+.lrc-options td {vertical-align:top;}
+
+#lrc-widget table {margin-bottom: 20px;}
+#lrc-widget td {border-top: 1px solid #005F6B;padding: 5px 10px 5px 0;max-width: 400px;vertical-align:top;}
+#lrc-widget td b {color: #005F6B;}
+#lrc-widget th {padding: 5px 10px 5px 0;max-width: 400px;text-align: left;color: #005F6B;}

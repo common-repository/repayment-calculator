@@ -1,0 +1,131 @@
+.lrc_form {-webkit-box-sizing: border-box;-moz-box-sizing: border-box;box-sizing: border-box;margin-bottom:20px;border:none;padding: 0;}
+
+/* Grid */
+.lrc-float {display:grid;grid-template-columns:60% 40%;}
+
+/* Inputs Section */
+.lrc-inputs  {background-color: #FFFFFF;padding: 20px;border: 1px solid #2760a5;}
+.lrc-slider-label {color:#2760a5;font-size:20px;margin-bottom: 12px;}
+.lrc_slider_output {line-height: 25px; font-size: 25px; text-align: center; margin-bottom: 12px;}
+
+.range {margin-bottom: 12px;}
+.lrc-slideroutput { position: relative;height:1em;}
+.lrc-slideroutput .lrc-sliderbuttonleft { position: relative; float: left; height: 30px; width: 10%;text-align: left;}
+.lrc-slideroutput .lrc-sliderbuttonright {position: relative; float: right; height: 30px; width:10%;}
+.lrc-slideroutput .lrc-slidercenter {margin: auto; width:80%; display: inline-block; text-align:center; outline: 0;color:#f09c30;font-size:20px; }
+.lrc-slideroutput:after, .range:after {visibility: hidden;display: block;font-size: 0;content: " ";clear: both;height: 0;}
+
+/* Circle Rules */
+.lrc-down 	{ height: 25px; width: 25px; position: absolute; top: 0; left: 0; border-radius: 12.5px; border: 2px solid #245da2; }
+.lrc-down:after {
+	content: "";
+	width: 15px;
+	position: absolute;
+	height: 3px;
+	background-color: #245da2;
+	top: 50%;
+	margin-top: -1.5px;
+	left: 50%; 
+	margin-left: -7.5px;
+}
+.lrc-up 		{ height: 25px; width: 25px; position: absolute; right: 0; top: 0; border-radius: 12.5px; border: 2px solid #245da2; }
+.lrc-up:after {
+	content: "";
+	width: 15px;
+	position: absolute;
+	height: 3px;
+	background-color: #245da2;
+	top: 50%;
+	left: 50%; 
+	margin-top: -1.5px;
+	margin-left: -7.5px;
+}
+.lrc-up:before {
+	content: "";
+	width: 3px;
+	position: absolute;
+	height: 15px;
+	background-color: #245da2;
+	top: 50%;
+	left: 50%;
+	margin-top: -7.5px;
+	margin-left: -1.5px;
+}
+.output-values	{ line-height: 25px; font-size:25px;color: #666666}
+.output-values output {color: #245da2;}
+.output-pad		{ padding: 0 25px; line-height: 25px; min-height: 25px; position: relative; }
+.lrc-up:hover, .lrc-down:hover { background-color: #e6e6e6; cursor: pointer; }
+.circle-control {
+  -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently
+                                  supported by Chrome and Opera */
+}
+
+/* Range */
+
+.lrc, .lrc__fill {
+    background: #e6e6e6;display: block;height: 8px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    }
+
+.lrc {position: relative;height: 8px;width: 100%;margin:8px 0 4px 0;}
+
+.lrc--disabled {filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=40);opacity: 0.4;}
+
+.lrc__fill {height: 8px;width: 100%;background: #0064b4;position: absolute;top: 0;border-radius: 8px 0 0 8px;}
+
+.lrc__handle {
+    background: #0064b4;
+    cursor: pointer;
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    top: -4px;
+    border-radius: 50%;
+}
+
+.range {
+    margin-bottom: 2em;
+}
+/* Credit Score Buttons */
+.creditscore {display: grid;
+    grid-template-columns: 15.83333% 15.83333% 15.83333% 15.83333% 15.83333% 15.83333%;
+    grid-gap: 1%;
+    cursor: pointer;
+}
+.creditscore input[type="radio"] {
+  opacity: 0;
+  position: fixed;
+  width: 0;
+}
+.creditscore label {
+    display: inline-block;
+    text-align: center;
+    line-height: 30px;
+    font-size: 12px;
+    font-weight: 900;
+}
+
+/* Outputs */
+.lrc-outputs {background-color: #245da2;padding: 20px;}
+
+.lrc_form table.output-table {width:100%;border-collapse: collapse;}
+.lrc_form table.output-table td {padding: 10px 0;border-bottom: 1px solid #ccc !important;vertical-align: middle !important;}
+.lrc_form table td.table-label {text-align: left;color:#FFF;}
+.lrc_form table td.table-label a {color:#FFF;text-decoration: none;}
+.lrc_form table td.table-output {text-align: right;color:#FFF;}
+ 
+
+/* Application Button */
+.ltc_register .submit {margin: 12px 0 0 0;font-family: inherit;font-size: inherit;width: 100%;box-sizing: border-box;background: #1a82c7;color:#FFF;text-align: center;cursor: pointer;border:none;padding:8px}
+
+@media only screen and (max-width:600px) {
+    .lrc-float{display:block;}
+    .output-values {font-size:14px;}
+}
